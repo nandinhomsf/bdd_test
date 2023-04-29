@@ -2,10 +2,10 @@ package triangulo;
 
 
 /*******************************************************************************
- * Classe que verifica se três valores informados formam um triângulo, ou seja,
- * se cada lado é menor que a soma dos outros dois lados. Em caso positivo,
- * informa se o triângulo é isósceles (dois lados iguais e um diferente),
- * escaleno (todos os lados diferentes) ou equilátero (todos os lados iguais).
+ * Classe que verifica se trï¿½s valores informados formam um triï¿½ngulo, ou seja,
+ * se cada lado ï¿½ menor que a soma dos outros dois lados. Em caso positivo,
+ * informa se o triï¿½ngulo ï¿½ isï¿½sceles (dois lados iguais e um diferente),
+ * escaleno (todos os lados diferentes) ou equilï¿½tero (todos os lados iguais).
  *******************************************************************************/
 
 public class Triangulo {
